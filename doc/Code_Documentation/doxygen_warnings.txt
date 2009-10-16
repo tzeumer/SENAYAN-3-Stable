@@ -1,0 +1,720 @@
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/marcxmlsenayan.inc.php:25: Warning: argument 'string' of command @param is not found in the argument list of marcXMLsenayan($str_marcxml,$str_xml_type='string')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/marcxmlsenayan.inc.php:25: Warning: The following parameters of marcXMLsenayan($str_marcxml,$str_xml_type='string') are not documented:
+  parameter 'str_marcxml'
+  parameter 'str_xml_type'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/encode_bars.php:44: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_encode_ean($ean,$encoding="EAN-13")
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/encode_bars.php:44: Warning: argument 'string' of command @param is not found in the argument list of barcode_encode_ean($ean,$encoding="EAN-13")
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/encode_bars.php:44: Warning: The following parameters of barcode_encode_ean($ean,$encoding="EAN-13") are not documented:
+  parameter 'ean'
+  parameter 'encoding'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/encode_bars.php:28: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_gen_ean_sum($ean)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/encode_bars.php:28: Warning: The following parameters of barcode_gen_ean_sum($ean) are not documented:
+  parameter 'ean'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:221: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_encode($code,$encoding)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:221: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_encode($code,$encoding)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:221: Warning: The following parameters of barcode_encode($code,$encoding) are not documented:
+  parameter 'code'
+  parameter 'encoding'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:182: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_encode_genbarcode($code,$encoding)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:182: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_encode_genbarcode($code,$encoding)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:182: Warning: The following parameters of barcode_encode_genbarcode($code,$encoding) are not documented:
+  parameter 'code'
+  parameter 'encoding'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:72: Warning: Unsupported xml/html tag <position> found
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:72: Warning: Unsupported xml/html tag <character> found
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'integer' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'string' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'integer' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: argument 'string' of command @param is not found in the argument list of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:70: Warning: The following parameters of barcode_outimage($text,$bars,$scale=1,$mode="png",$total_y=0,$space='') are not documented:
+  parameter 'text'
+  parameter 'bars'
+  parameter 'scale'
+  parameter 'mode'
+  parameter 'total_y'
+  parameter 'space'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:271: Warning: argument 'mixed' of command @param is not found in the argument list of barcode_print($code,$encoding='128B',$scale=2,$mode='png')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:271: Warning: argument 'string' of command @param is not found in the argument list of barcode_print($code,$encoding='128B',$scale=2,$mode='png')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:271: Warning: argument 'integer' of command @param is not found in the argument list of barcode_print($code,$encoding='128B',$scale=2,$mode='png')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:271: Warning: argument 'string' of command @param is not found in the argument list of barcode_print($code,$encoding='128B',$scale=2,$mode='png')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/phpbarcode/php-barcode.php:271: Warning: The following parameters of barcode_print($code,$encoding='128B',$scale=2,$mode='png') are not documented:
+  parameter 'code'
+  parameter 'encoding'
+  parameter 'scale'
+  parameter 'mode'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/admin_logon.inc.php:37: Warning: argument 'string' of command @param is not found in the argument list of admin_logon::__construct($str_username,$str_password)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/admin_logon.inc.php:37: Warning: argument 'string' of command @param is not found in the argument list of admin_logon::__construct($str_username,$str_password)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/admin_logon.inc.php:37: Warning: The following parameters of admin_logon::__construct($str_username,$str_password) are not documented:
+  parameter 'str_username'
+  parameter 'str_password'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/admin_logon.inc.php:50: Warning: argument 'object' of command @param is not found in the argument list of admin_logon::adminValid($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/admin_logon.inc.php:50: Warning: The following parameters of admin_logon::adminValid($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:61: Warning: argument 'object' of command @param is not found in the argument list of biblio_list::__construct($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:61: Warning: The following parameters of biblio_list::__construct($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:235: Warning: argument 'object' of command @param is not found in the argument list of biblio_list::getDocumentList($int_num2show=10,$bool_return_output=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:235: Warning: argument 'integer' of command @param is not found in the argument list of biblio_list::getDocumentList($int_num2show=10,$bool_return_output=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:235: Warning: argument 'boolean' of command @param is not found in the argument list of biblio_list::getDocumentList($int_num2show=10,$bool_return_output=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:235: Warning: The following parameters of biblio_list::getDocumentList($int_num2show=10,$bool_return_output=true) are not documented:
+  parameter 'int_num2show'
+  parameter 'bool_return_output'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:72: Warning: argument 'string' of command @param is not found in the argument list of biblio_list::setSQLcriteria($str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/biblio_list.inc.php:72: Warning: The following parameters of biblio_list::setSQLcriteria($str_criteria) are not documented:
+  parameter 'str_criteria'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:259: Warning: argument 'mixed' of command @param is not found in the argument list of CachedFileReader::CachedFileReader($filename)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:259: Warning: The following parameters of CachedFileReader::CachedFileReader($filename) are not documented:
+  parameter 'filename'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:51: Warning: argument 'object' of command @param is not found in the argument list of circulation::__construct($obj_db,$str_member_id)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:51: Warning: argument 'string' of command @param is not found in the argument list of circulation::__construct($obj_db,$str_member_id)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:51: Warning: The following parameters of circulation::__construct($obj_db,$str_member_id) are not documented:
+  parameter 'obj_db'
+  parameter 'str_member_id'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:135: Warning: argument 'string' of command @param is not found in the argument list of circulation::addLoanSession($str_item_code,$bool_ignore_rules=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:135: Warning: argument 'boolean' of command @param is not found in the argument list of circulation::addLoanSession($str_item_code,$bool_ignore_rules=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:135: Warning: The following parameters of circulation::addLoanSession($str_item_code,$bool_ignore_rules=false) are not documented:
+  parameter 'str_item_code'
+  parameter 'bool_ignore_rules'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:309: Warning: argument 'integer' of command @param is not found in the argument list of circulation::countOverdueValue($int_loan_id,$str_return_date)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:309: Warning: argument 'string' of command @param is not found in the argument list of circulation::countOverdueValue($int_loan_id,$str_return_date)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:309: Warning: The following parameters of circulation::countOverdueValue($int_loan_id,$str_return_date) are not documented:
+  parameter 'int_loan_id'
+  parameter 'str_return_date'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:274: Warning: argument 'integer' of command @param is not found in the argument list of circulation::extendItemLoan($int_loan_id)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:274: Warning: The following parameters of circulation::extendItemLoan($int_loan_id) are not documented:
+  parameter 'int_loan_id'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:230: Warning: argument 'string' of command @param is not found in the argument list of circulation::removeLoanSession($str_item_code)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:230: Warning: The following parameters of circulation::removeLoanSession($str_item_code) are not documented:
+  parameter 'str_item_code'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:241: Warning: argument 'integer' of command @param is not found in the argument list of circulation::returnItem($int_loan_id)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/circulation/circulation_base_lib.inc.php:241: Warning: The following parameters of circulation::returnItem($int_loan_id) are not documented:
+  parameter 'int_loan_id'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:74: Warning: argument 'boolean' of command @param is not found in the argument list of content_list::pagingEnable($bool_enable)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:74: Warning: The following parameters of content_list::pagingEnable($bool_enable) are not documented:
+  parameter 'bool_enable'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:86: Warning: argument 'array' of command @param is not found in the argument list of content_list::parseListTemplate($array_associative_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:86: Warning: The following parameters of content_list::parseListTemplate($array_associative_data) are not documented:
+  parameter 'array_associative_data'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:38: Warning: argument 'string' of command @param is not found in the argument list of content_list::setListTemplate($str_template)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:38: Warning: The following parameters of content_list::setListTemplate($str_template) are not documented:
+  parameter 'str_template'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:50: Warning: argument 'string' of command @param is not found in the argument list of content_list::setSQLcriteria($str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:50: Warning: The following parameters of content_list::setSQLcriteria($str_criteria) are not documented:
+  parameter 'str_criteria'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:62: Warning: argument 'string' of command @param is not found in the argument list of content_list::setSQLorder($str_order)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/content_list.inc.php:62: Warning: The following parameters of content_list::setSQLorder($str_order) are not documented:
+  parameter 'str_order'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/detail.inc.php:46: Warning: argument 'object' of command @param is not found in the argument list of detail::__construct($obj_db,$int_detail_id,$str_output_format='html')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/detail.inc.php:46: Warning: argument 'integer' of command @param is not found in the argument list of detail::__construct($obj_db,$int_detail_id,$str_output_format='html')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/detail.inc.php:46: Warning: argument 'str' of command @param is not found in the argument list of detail::__construct($obj_db,$int_detail_id,$str_output_format='html')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/detail.inc.php:46: Warning: The following parameters of detail::__construct($obj_db,$int_detail_id,$str_output_format='html') are not documented:
+  parameter 'obj_db'
+  parameter 'int_detail_id'
+  parameter 'str_output_format'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:155: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:162: Warning: argument 'mixed' of command @param is not found in the argument list of FileReader::FileReader($filename)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:162: Warning: The following parameters of FileReader::FileReader($filename) are not documented:
+  parameter 'filename'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:184: Warning: argument 'mixed' of command @param is not found in the argument list of FileReader::read($bytes)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:184: Warning: The following parameters of FileReader::read($bytes) are not documented:
+  parameter 'bytes'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:207: Warning: argument 'mixed' of command @param is not found in the argument list of FileReader::seekto($pos)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:207: Warning: The following parameters of FileReader::seekto($pos) are not documented:
+  parameter 'pos'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:208: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:206: Warning: argument 'int' of command @param is not found in the argument list of gettext_reader::find_string($string,$start=-1,$end=-1)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:206: Warning: argument 'int' of command @param is not found in the argument list of gettext_reader::find_string($string,$start=-1,$end=-1)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:206: Warning: The following parameters of gettext_reader::find_string($string,$start=-1,$end=-1) are not documented:
+  parameter 'start'
+  parameter 'end'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:174: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:172: Warning: argument 'int' of command @param is not found in the argument list of gettext_reader::get_original_string($num)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:172: Warning: The following parameters of gettext_reader::get_original_string($num) are not documented:
+  parameter 'num'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:277: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:191: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:189: Warning: argument 'int' of command @param is not found in the argument list of gettext_reader::get_translation_string($num)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:189: Warning: The following parameters of gettext_reader::get_translation_string($num) are not documented:
+  parameter 'num'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:100: Warning: argument 'object' of command @param is not found in the argument list of gettext_reader::gettext_reader($Reader,$enable_cache=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:100: Warning: argument 'boolean' of command @param is not found in the argument list of gettext_reader::gettext_reader($Reader,$enable_cache=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:100: Warning: The following parameters of gettext_reader::gettext_reader($Reader,$enable_cache=true) are not documented:
+  parameter 'Reader'
+  parameter 'enable_cache'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:144: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:325: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:323: Warning: argument 'string' of command @param is not found in the argument list of gettext_reader::ngettext($single,$plural,$number)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:323: Warning: argument 'string' of command @param is not found in the argument list of gettext_reader::ngettext($single,$plural,$number)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:323: Warning: argument 'string' of command @param is not found in the argument list of gettext_reader::ngettext($single,$plural,$number)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:323: Warning: The following parameters of gettext_reader::ngettext($single,$plural,$number) are not documented:
+  parameter 'single'
+  parameter 'plural'
+  parameter 'number'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:70: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:84: Warning: argument 'int' of command @param is not found in the argument list of gettext_reader::readintarray($count)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:84: Warning: The following parameters of gettext_reader::readintarray($count) are not documented:
+  parameter 'count'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:304: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/gettext.php:249: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/member_logon.inc.php:34: Warning: argument 'string' of command @param is not found in the argument list of member_logon::__construct($str_username,$str_password)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/member_logon.inc.php:34: Warning: argument 'string' of command @param is not found in the argument list of member_logon::__construct($str_username,$str_password)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/member_logon.inc.php:34: Warning: The following parameters of member_logon::__construct($str_username,$str_password) are not documented:
+  parameter 'str_username'
+  parameter 'str_password'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/member_logon.inc.php:47: Warning: argument 'object' of command @param is not found in the argument list of member_logon::valid($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/member_logon.inc.php:47: Warning: The following parameters of member_logon::valid($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:50: Warning: argument 'object' of command @param is not found in the argument list of module::generateModuleMenu($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:50: Warning: The following parameters of module::generateModuleMenu($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:84: Warning: argument 'string' of command @param is not found in the argument list of module::generateSubMenu($str_module='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:84: Warning: The following parameters of module::generateSubMenu($str_module='') are not documented:
+  parameter 'str_module'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:38: Warning: argument 'string' of command @param is not found in the argument list of module::setModulesDir($str_modules_dir)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/module.inc.php:38: Warning: The following parameters of module::setModulesDir($str_modules_dir) are not documented:
+  parameter 'str_modules_dir'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/reporting/report_dbgrid.inc.php:37: Warning: argument 'object' of command @param is not found in the argument list of report_datagrid::makeOutput($int_num2show=30)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/reporting/report_dbgrid.inc.php:37: Warning: argument 'integer' of command @param is not found in the argument list of report_datagrid::makeOutput($int_num2show=30)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/reporting/report_dbgrid.inc.php:37: Warning: The following parameters of report_datagrid::makeOutput($int_num2show=30) are not documented:
+  parameter 'int_num2show'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:35: Warning: argument 'object' of command @param is not found in the argument list of serial::__construct($obj_db,$int_serial_id=0)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:35: Warning: The following parameters of serial::__construct($obj_db,$int_serial_id=0) are not documented:
+  parameter 'obj_db'
+  parameter 'int_serial_id'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:249: Warning: argument 'integer' of command @param is not found in the argument list of serial::deleteKardex($int_kardex_id)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:249: Warning: The following parameters of serial::deleteKardex($int_kardex_id) are not documented:
+  parameter 'int_kardex_id'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:57: Warning: argument 'integer' of command @param is not found in the argument list of serial::generateKardexes($int_total_expl,$bool_insert_to_DB=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:57: Warning: argument 'boolean' of command @param is not found in the argument list of serial::generateKardexes($int_total_expl,$bool_insert_to_DB=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/admin/modules/serial_control/serial_base_lib.inc.php:57: Warning: The following parameters of serial::generateKardexes($int_total_expl,$bool_insert_to_DB=true) are not documented:
+  parameter 'int_total_expl'
+  parameter 'bool_insert_to_DB'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio.inc.php:50: Warning: argument 'string' of command @param is not found in the argument list of simbio::colorSQLstring($sql_string='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio.inc.php:50: Warning: The following parameters of simbio::colorSQLstring($sql_string='') are not documented:
+  parameter 'sql_string'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio.inc.php:34: Warning: argument 'boolean' of command @param is not found in the argument list of simbio::showError($bool_die=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio.inc.php:34: Warning: The following parameters of simbio::showError($bool_die=false) are not documented:
+  parameter 'bool_die'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:74: Warning: argument 'object' of command @param is not found in the argument list of simbio_datagrid::createDataGrid($obj_db,$str_db_table='',$int_num2show=30,$bool_editable=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:74: Warning: argument 'string' of command @param is not found in the argument list of simbio_datagrid::createDataGrid($obj_db,$str_db_table='',$int_num2show=30,$bool_editable=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:74: Warning: argument 'integer' of command @param is not found in the argument list of simbio_datagrid::createDataGrid($obj_db,$str_db_table='',$int_num2show=30,$bool_editable=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:74: Warning: argument 'boolean' of command @param is not found in the argument list of simbio_datagrid::createDataGrid($obj_db,$str_db_table='',$int_num2show=30,$bool_editable=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:74: Warning: The following parameters of simbio_datagrid::createDataGrid($obj_db,$str_db_table='',$int_num2show=30,$bool_editable=false) are not documented:
+  parameter 'obj_db'
+  parameter 'str_db_table'
+  parameter 'int_num2show'
+  parameter 'bool_editable'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:492: Warning: argument 'integer' of command @param is not found in the argument list of simbio_datagrid::disableSort()
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:333: Warning: argument 'integer' of command @param is not found in the argument list of simbio_datagrid::makeOutput($int_num2show=30)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:333: Warning: The following parameters of simbio_datagrid::makeOutput($int_num2show=30) are not documented:
+  parameter 'int_num2show'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:506: Warning: argument 'integer' of command @param is not found in the argument list of simbio_datagrid::modifyColumnContent($int_column_no,$str_new_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:506: Warning: argument 'string' of command @param is not found in the argument list of simbio_datagrid::modifyColumnContent($int_column_no,$str_new_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:506: Warning: The following parameters of simbio_datagrid::modifyColumnContent($int_column_no,$str_new_value) are not documented:
+  parameter 'int_column_no'
+  parameter 'str_new_value'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:416: Warning: argument 'string' of command @param is not found in the argument list of simbio_datagrid::setSQLColumn()
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:458: Warning: argument 'string' of command @param is not found in the argument list of simbio_datagrid::setSQLCriteria($str_where_clause)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:458: Warning: The following parameters of simbio_datagrid::setSQLCriteria($str_where_clause) are not documented:
+  parameter 'str_where_clause'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:476: Warning: argument 'string' of command @param is not found in the argument list of simbio_datagrid::setSQLorder($str_order_column)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:476: Warning: The following parameters of simbio_datagrid::setSQLorder($str_order_column) are not documented:
+  parameter 'str_order_column'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:75: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::calcDay($str_start_date,$str_end_date)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:75: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::calcDay($str_start_date,$str_end_date)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:75: Warning: The following parameters of simbio_date::calcDay($str_start_date,$str_end_date) are not documented:
+  parameter 'str_start_date'
+  parameter 'str_end_date'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:121: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::compareDates()
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:93: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::countHolidayBetween($str_start_date,$str_end_date,$array_holiday_dayname=array('Sun'),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:93: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::countHolidayBetween($str_start_date,$str_end_date,$array_holiday_dayname=array('Sun'),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:93: Warning: argument 'array' of command @param is not found in the argument list of simbio_date::countHolidayBetween($str_start_date,$str_end_date,$array_holiday_dayname=array('Sun'),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:93: Warning: argument 'array' of command @param is not found in the argument list of simbio_date::countHolidayBetween($str_start_date,$str_end_date,$array_holiday_dayname=array('Sun'),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:93: Warning: The following parameters of simbio_date::countHolidayBetween($str_start_date,$str_end_date,$array_holiday_dayname=array('Sun'),$array_holiday_date=array()) are not documented:
+  parameter 'str_start_date'
+  parameter 'str_end_date'
+  parameter 'array_holiday_dayname'
+  parameter 'array_holiday_date'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:33: Warning: argument 'integer' of command @param is not found in the argument list of simbio_date::getNextDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:33: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::getNextDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:33: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::getNextDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:33: Warning: The following parameters of simbio_date::getNextDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d') are not documented:
+  parameter 'int_day_num'
+  parameter 'str_start_date'
+  parameter 'str_date_format'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:161: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::getNextDateNotHoliday($str_date,$array_holiday_dayname=array(),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:161: Warning: argument 'array' of command @param is not found in the argument list of simbio_date::getNextDateNotHoliday($str_date,$array_holiday_dayname=array(),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:161: Warning: argument 'array' of command @param is not found in the argument list of simbio_date::getNextDateNotHoliday($str_date,$array_holiday_dayname=array(),$array_holiday_date=array())
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:161: Warning: The following parameters of simbio_date::getNextDateNotHoliday($str_date,$array_holiday_dayname=array(),$array_holiday_date=array()) are not documented:
+  parameter 'str_date'
+  parameter 'array_holiday_dayname'
+  parameter 'array_holiday_date'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:54: Warning: argument 'integer' of command @param is not found in the argument list of simbio_date::getPrevDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:54: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::getPrevDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:54: Warning: argument 'string' of command @param is not found in the argument list of simbio_date::getPrevDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_date.inc.php:54: Warning: The following parameters of simbio_date::getPrevDate($int_day_num=1,$str_start_date='',$str_date_format='Y-m-d') are not documented:
+  parameter 'int_day_num'
+  parameter 'str_start_date'
+  parameter 'str_date_format'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:36: Warning: argument 'object' of command @param is not found in the argument list of simbio_dbop::__construct($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:36: Warning: The following parameters of simbio_dbop::__construct($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:151: Warning: argument 'string' of command @param is not found in the argument list of simbio_dbop::delete($str_table,$str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:151: Warning: argument 'string' of command @param is not found in the argument list of simbio_dbop::delete($str_table,$str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:151: Warning: The following parameters of simbio_dbop::delete($str_table,$str_criteria) are not documented:
+  parameter 'str_table'
+  parameter 'str_criteria'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:48: Warning: argument 'string' of command @param is not found in the argument list of simbio_dbop::insert($str_table,$array_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:48: Warning: argument 'array' of command @param is not found in the argument list of simbio_dbop::insert($str_table,$array_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:48: Warning: The following parameters of simbio_dbop::insert($str_table,$array_data) are not documented:
+  parameter 'str_table'
+  parameter 'array_data'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:103: Warning: argument 'string' of command @param is not found in the argument list of simbio_dbop::update($str_table,$array_update,$str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:103: Warning: argument 'array' of command @param is not found in the argument list of simbio_dbop::update($str_table,$array_update,$str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:103: Warning: argument 'string' of command @param is not found in the argument list of simbio_dbop::update($str_table,$array_update,$str_criteria)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/simbio_dbop.inc.php:103: Warning: The following parameters of simbio_dbop::update($str_table,$array_update,$str_criteria) are not documented:
+  parameter 'str_table'
+  parameter 'array_update'
+  parameter 'str_criteria'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:34: Warning: argument 'string' of command @param is not found in the argument list of simbio_directory::__construct($str_base_dir)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:34: Warning: The following parameters of simbio_directory::__construct($str_base_dir) are not documented:
+  parameter 'str_base_dir'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:50: Warning: argument 'int' of command @param is not found in the argument list of simbio_directory::getDirectoryTree($int_max_downtree=1,$str_current_dir='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:50: Warning: The following parameters of simbio_directory::getDirectoryTree($int_max_downtree=1,$str_current_dir='') are not documented:
+  parameter 'int_max_downtree'
+  parameter 'str_current_dir'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:98: Warning: argument 'string' of command @param is not found in the argument list of simbio_directory::stripTrailingSlash($str_dir)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_directory.inc.php:98: Warning: The following parameters of simbio_directory::stripTrailingSlash($str_dir) are not documented:
+  parameter 'str_dir'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:92: Warning: argument 'string' of command @param is not found in the argument list of simbio_file_upload::doUpload($file_input_name,$str_new_filename='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:92: Warning: argument 'string' of command @param is not found in the argument list of simbio_file_upload::doUpload($file_input_name,$str_new_filename='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:92: Warning: The following parameters of simbio_file_upload::doUpload($file_input_name,$str_new_filename='') are not documented:
+  parameter 'file_input_name'
+  parameter 'str_new_filename'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:45: Warning: argument 'array' of command @param is not found in the argument list of simbio_file_upload::setAllowableFormat($array_allowable_ext)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:45: Warning: The following parameters of simbio_file_upload::setAllowableFormat($array_allowable_ext) are not documented:
+  parameter 'array_allowable_ext'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:67: Warning: argument 'integer' of command @param is not found in the argument list of simbio_file_upload::setMaxSize($int_max_size)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:67: Warning: The following parameters of simbio_file_upload::setMaxSize($int_max_size) are not documented:
+  parameter 'int_max_size'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:80: Warning: argument 'string' of command @param is not found in the argument list of simbio_file_upload::setUploadDir($str_upload_dir)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_FILE/simbio_file_upload.inc.php:80: Warning: The following parameters of simbio_file_upload::setUploadDir($str_upload_dir) are not documented:
+  parameter 'str_upload_dir'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:361: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::checkBox($str_elmnt_name,$array_chbox,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:361: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::checkBox($str_elmnt_name,$array_chbox,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:361: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_element::checkBox($str_elmnt_name,$array_chbox,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:361: Warning: The following parameters of simbio_form_element::checkBox($str_elmnt_name,$array_chbox,$default_checked='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'array_chbox'
+  parameter 'default_checked'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:397: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::dateField($str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:397: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::dateField($str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:397: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::dateField($str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:397: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::dateField($str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:397: Warning: The following parameters of simbio_form_element::dateField($str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_value'
+  parameter 'str_elmnt_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:412: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::hiddenField($str_elmnt_name,$str_elmnt_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:412: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::hiddenField($str_elmnt_name,$str_elmnt_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:412: Warning: The following parameters of simbio_form_element::hiddenField($str_elmnt_name,$str_elmnt_value) are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_value'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:379: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::radioButton($str_elmnt_name,$array_option,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:379: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_element::radioButton($str_elmnt_name,$array_option,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:379: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::radioButton($str_elmnt_name,$array_option,$default_checked='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:379: Warning: The following parameters of simbio_form_element::radioButton($str_elmnt_name,$array_option,$default_checked='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'array_option'
+  parameter 'default_checked'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:341: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::selectList($str_elmnt_name,$array_option,$str_default_selected='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:341: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_element::selectList($str_elmnt_name,$array_option,$str_default_selected='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:341: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::selectList($str_elmnt_name,$array_option,$str_default_selected='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:341: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::selectList($str_elmnt_name,$array_option,$str_default_selected='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:341: Warning: The following parameters of simbio_form_element::selectList($str_elmnt_name,$array_option,$str_default_selected='',$str_elmnt_attr='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'array_option'
+  parameter 'str_default_selected'
+  parameter 'str_elmnt_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:322: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::textField($str_elmnt_type,$str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:322: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::textField($str_elmnt_type,$str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:322: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::textField($str_elmnt_type,$str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:322: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_element::textField($str_elmnt_type,$str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_element.inc.php:322: Warning: The following parameters of simbio_form_element::textField($str_elmnt_type,$str_elmnt_name,$str_elmnt_value='',$str_elmnt_attr='') are not documented:
+  parameter 'str_elmnt_type'
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_value'
+  parameter 'str_elmnt_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:64: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::__construct($str_form_name='mainForm',$str_form_action='',$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:64: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::__construct($str_form_name='mainForm',$str_form_action='',$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:64: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::__construct($str_form_name='mainForm',$str_form_action='',$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:64: Warning: argument 'boolean' of command @param is not found in the argument list of simbio_form_maker::__construct($str_form_name='mainForm',$str_form_action='',$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:64: Warning: The following parameters of simbio_form_maker::__construct($str_form_name='mainForm',$str_form_action='',$str_form_method='post',$bool_enable_upload=true) are not documented:
+  parameter 'str_form_name'
+  parameter 'str_form_action'
+  parameter 'str_form_method'
+  parameter 'bool_enable_upload'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:240: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addAnything($str_elmnt_label,$str_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:240: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addAnything($str_elmnt_label,$str_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:240: Warning: The following parameters of simbio_form_maker::addAnything($str_elmnt_label,$str_content) are not documented:
+  parameter 'str_elmnt_label'
+  parameter 'str_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: argument 'mixed' of command @param is not found in the argument list of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:162: Warning: The following parameters of simbio_form_maker::addCheckBox($str_elmnt_name,$str_elmnt_label,$array_chbox,$default_checked='',$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_label'
+  parameter 'array_chbox'
+  parameter 'default_checked'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:206: Warning: The following parameters of simbio_form_maker::addDateField($str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_label'
+  parameter 'str_elmnt_value'
+  parameter 'str_elmnt_attr'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:255: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addFormObject($str_elmnt_label,$obj_simbio_fe,$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:255: Warning: argument 'object' of command @param is not found in the argument list of simbio_form_maker::addFormObject($str_elmnt_label,$obj_simbio_fe,$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:255: Warning: The following parameters of simbio_form_maker::addFormObject($str_elmnt_label,$obj_simbio_fe,$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_label'
+  parameter 'obj_simbio_fe'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:223: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addHidden($str_elmnt_name,$str_elmnt_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:223: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addHidden($str_elmnt_name,$str_elmnt_value)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:223: Warning: The following parameters of simbio_form_maker::addHidden($str_elmnt_name,$str_elmnt_value) are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_value'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: argument 'mixed' of command @param is not found in the argument list of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:184: Warning: The following parameters of simbio_form_maker::addRadio($str_elmnt_name,$str_elmnt_label,$array_option,$default_checked='',$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_label'
+  parameter 'array_option'
+  parameter 'default_checked'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'array' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:138: Warning: The following parameters of simbio_form_maker::addSelectList($str_elmnt_name,$str_elmnt_label,$array_option,$str_default_selected='',$str_elmnt_attr='',$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_label'
+  parameter 'array_option'
+  parameter 'str_default_selected'
+  parameter 'str_elmnt_attr'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php:114: Warning: The following parameters of simbio_form_maker::addTextField($str_elmnt_type,$str_elmnt_name,$str_elmnt_label,$str_elmnt_value='',$str_elmnt_attr='',$str_elmnt_info='') are not documented:
+  parameter 'str_elmnt_type'
+  parameter 'str_elmnt_name'
+  parameter 'str_elmnt_label'
+  parameter 'str_elmnt_value'
+  parameter 'str_elmnt_attr'
+  parameter 'str_elmnt_info'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:45: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_table::__construct($str_form_name,$str_form_action,$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:45: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_table::__construct($str_form_name,$str_form_action,$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:45: Warning: argument 'string' of command @param is not found in the argument list of simbio_form_table::__construct($str_form_name,$str_form_action,$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:45: Warning: argument 'boolean' of command @param is not found in the argument list of simbio_form_table::__construct($str_form_name,$str_form_action,$str_form_method='post',$bool_enable_upload=true)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/form_maker/simbio_form_table.inc.php:45: Warning: The following parameters of simbio_form_table::__construct($str_form_name,$str_form_action,$str_form_method='post',$bool_enable_upload=true) are not documented:
+  parameter 'str_form_name'
+  parameter 'str_form_action'
+  parameter 'str_form_method'
+  parameter 'bool_enable_upload'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis.inc.php:69: Warning: argument 'string' of command @param is not found in the argument list of simbio_isis::query($str_query='',$str_query_type='query')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis.inc.php:69: Warning: argument 'string' of command @param is not found in the argument list of simbio_isis::query($str_query='',$str_query_type='query')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis.inc.php:69: Warning: The following parameters of simbio_isis::query($str_query='',$str_query_type='query') are not documented:
+  parameter 'str_query'
+  parameter 'str_query_type'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis.inc.php:39: Warning: argument 'string' of command @param is not found in the argument list of simbio_isis::simbio_isis($str_dbname)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis.inc.php:39: Warning: The following parameters of simbio_isis::simbio_isis($str_dbname) are not documented:
+  parameter 'str_dbname'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:53: Warning: argument 'resource' of command @param is not found in the argument list of simbio_isis_result::sendQuery($res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:53: Warning: The following parameters of simbio_isis_result::sendQuery($res_conn) are not documented:
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:38: Warning: argument 'string' of command @param is not found in the argument list of simbio_isis_result::simbio_isis_result($str_query,$str_query_type,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:38: Warning: argument 'string' of command @param is not found in the argument list of simbio_isis_result::simbio_isis_result($str_query,$str_query_type,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:38: Warning: argument 'resource' of command @param is not found in the argument list of simbio_isis_result::simbio_isis_result($str_query,$str_query_type,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/isis/simbio_isis_result.inc.php:38: Warning: The following parameters of simbio_isis_result::simbio_isis_result($str_query,$str_query_type,$res_conn) are not documented:
+  parameter 'str_query'
+  parameter 'str_query_type'
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'integer' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:46: Warning: The following parameters of simbio_mysql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=3306,$str_socket='') are not documented:
+  parameter 'str_host'
+  parameter 'str_username'
+  parameter 'str_passwd'
+  parameter 'str_dbname'
+  parameter 'int_port'
+  parameter 'str_socket'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:125: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::escape_string($str_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:125: Warning: The following parameters of simbio_mysql::escape_string($str_data) are not documented:
+  parameter 'str_data'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:96: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql::query($str_query='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql.inc.php:96: Warning: The following parameters of simbio_mysql::query($str_query='') are not documented:
+  parameter 'str_query'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql_result.inc.php:47: Warning: argument 'string' of command @param is not found in the argument list of simbio_mysql_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql_result.inc.php:47: Warning: argument 'resource' of command @param is not found in the argument list of simbio_mysql_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql_result.inc.php:47: Warning: The following parameters of simbio_mysql_result::__construct($str_query,$res_conn) are not documented:
+  parameter 'str_query'
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql_result.inc.php:60: Warning: argument 'resource' of command @param is not found in the argument list of simbio_mysql_result::sendQuery($res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/mysql/simbio_mysql_result.inc.php:60: Warning: The following parameters of simbio_mysql_result::sendQuery($res_conn) are not documented:
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: argument 'string' of command @param is not found in the argument list of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: argument 'string' of command @param is not found in the argument list of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging.inc.php:31: Warning: The following parameters of simbio_paging::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='',$str_target_frame='_self') are not documented:
+  parameter 'int_all_recs_num'
+  parameter 'int_recs_each_page'
+  parameter 'int_pages_each_set'
+  parameter 'str_fragment'
+  parameter 'str_target_frame'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging_ajax.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging_ajax::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging_ajax.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging_ajax::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging_ajax.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_paging_ajax::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging_ajax.inc.php:31: Warning: argument 'string' of command @param is not found in the argument list of simbio_paging_ajax::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/paging/simbio_paging_ajax.inc.php:31: Warning: The following parameters of simbio_paging_ajax::paging($int_all_recs_num,$int_recs_each_page,$int_pages_each_set=10,$str_fragment='') are not documented:
+  parameter 'int_all_recs_num'
+  parameter 'int_recs_each_page'
+  parameter 'int_pages_each_set'
+  parameter 'str_fragment'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: argument 'integer' of command @param is not found in the argument list of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:43: Warning: The following parameters of simbio_pgsql::__construct($str_host,$str_username,$str_passwd,$str_dbname,$int_port=5432) are not documented:
+  parameter 'str_host'
+  parameter 'str_username'
+  parameter 'str_passwd'
+  parameter 'str_dbname'
+  parameter 'int_port'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:110: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::escape_string($str_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:110: Warning: The following parameters of simbio_pgsql::escape_string($str_data) are not documented:
+  parameter 'str_data'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:82: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql::query($str_query='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql.inc.php:82: Warning: The following parameters of simbio_pgsql::query($str_query='') are not documented:
+  parameter 'str_query'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql_result.inc.php:61: Warning: argument 'string' of command @param is not found in the argument list of simbio_pgsql_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql_result.inc.php:61: Warning: argument 'resource' of command @param is not found in the argument list of simbio_pgsql_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql_result.inc.php:61: Warning: The following parameters of simbio_pgsql_result::__construct($str_query,$res_conn) are not documented:
+  parameter 'str_query'
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql_result.inc.php:74: Warning: argument 'resource' of command @param is not found in the argument list of simbio_pgsql_result::sendQuery($res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/pgsql/simbio_pgsql_result.inc.php:74: Warning: The following parameters of simbio_pgsql_result::sendQuery($res_conn) are not documented:
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:37: Warning: argument 'string' of command @param is not found in the argument list of simbio_qparser::__construct($str_query,$arr_default_fields)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:37: Warning: argument 'array' of command @param is not found in the argument list of simbio_qparser::__construct($str_query,$arr_default_fields)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:37: Warning: The following parameters of simbio_qparser::__construct($str_query,$arr_default_fields) are not documented:
+  parameter 'str_query'
+  parameter 'arr_default_fields'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:50: Warning: argument 'string' of command @param is not found in the argument list of simbio_qparser::addBoolean($str_words)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:50: Warning: The following parameters of simbio_qparser::addBoolean($str_words) are not documented:
+  parameter 'str_words'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:230: Warning: argument 'array' of command @param is not found in the argument list of simbio_qparser::setExactMatchFields($arr_fields)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:230: Warning: The following parameters of simbio_qparser::setExactMatchFields($arr_fields) are not documented:
+  parameter 'arr_fields'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:206: Warning: argument 'array' of command @param is not found in the argument list of simbio_qparser::setFieldAliases($arr_field_aliases)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:206: Warning: The following parameters of simbio_qparser::setFieldAliases($arr_field_aliases) are not documented:
+  parameter 'arr_field_aliases'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:218: Warning: argument 'array' of command @param is not found in the argument list of simbio_qparser::setSearchStringFields($arr_fields)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_qparser.inc.php:218: Warning: The following parameters of simbio_qparser::setSearchStringFields($arr_fields) are not documented:
+  parameter 'arr_fields'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_security.inc.php:49: Warning: argument 'string' of command @param is not found in the argument list of simbio_security::destroySessionCookie($str_msg,$str_session_name='',$str_cookie_path='/',$bool_die=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_security.inc.php:49: Warning: argument 'boolean' of command @param is not found in the argument list of simbio_security::destroySessionCookie($str_msg,$str_session_name='',$str_cookie_path='/',$bool_die=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_security.inc.php:49: Warning: The following parameters of simbio_security::destroySessionCookie($str_msg,$str_session_name='',$str_cookie_path='/',$bool_die=false) are not documented:
+  parameter 'str_msg'
+  parameter 'str_session_name'
+  parameter 'str_cookie_path'
+  parameter 'bool_die'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_security.inc.php:31: Warning: argument 'integer' of command @param is not found in the argument list of simbio_security::doCheckHttps($int_https_port)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_security.inc.php:31: Warning: The following parameters of simbio_security::doCheckHttps($int_https_port) are not documented:
+  parameter 'int_https_port'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:38: Warning: argument 'string' of command @param is not found in the argument list of simbio_sqlite::__construct($str_dbname)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:38: Warning: The following parameters of simbio_sqlite::__construct($str_dbname) are not documented:
+  parameter 'str_dbname'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:92: Warning: argument 'string' of command @param is not found in the argument list of simbio_sqlite::escape_string($str_data)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:92: Warning: The following parameters of simbio_sqlite::escape_string($str_data) are not documented:
+  parameter 'str_data'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:65: Warning: argument 'string' of command @param is not found in the argument list of simbio_sqlite::query($str_query='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite.inc.php:65: Warning: The following parameters of simbio_sqlite::query($str_query='') are not documented:
+  parameter 'str_query'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite_result.inc.php:60: Warning: argument 'string' of command @param is not found in the argument list of simbio_sqlite_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite_result.inc.php:60: Warning: argument 'resource' of command @param is not found in the argument list of simbio_sqlite_result::__construct($str_query,$res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite_result.inc.php:60: Warning: The following parameters of simbio_sqlite_result::__construct($str_query,$res_conn) are not documented:
+  parameter 'str_query'
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite_result.inc.php:73: Warning: argument 'resource' of command @param is not found in the argument list of simbio_sqlite_result::sendQuery($res_conn)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_DB/sqlite/simbio_sqlite_result.inc.php:73: Warning: The following parameters of simbio_sqlite_result::sendQuery($res_conn) are not documented:
+  parameter 'res_conn'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:108: Warning: argument 'string' of command @param is not found in the argument list of simbio_table::__construct($str_table_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:108: Warning: The following parameters of simbio_table::__construct($str_table_attr='') are not documented:
+  parameter 'str_table_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:136: Warning: argument 'array' of command @param is not found in the argument list of simbio_table::appendTableRow($array_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:136: Warning: The following parameters of simbio_table::appendTableRow($array_column_content) are not documented:
+  parameter 'array_column_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:188: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::getColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:188: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::getColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:188: Warning: argument 'string' of command @param is not found in the argument list of simbio_table::getColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:188: Warning: The following parameters of simbio_table::getColumnContent($int_row,$int_column,$str_column_content) are not documented:
+  parameter 'int_row'
+  parameter 'int_column'
+  parameter 'str_column_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:206: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::setCellAttr($int_row=0,$int_column=null,$str_column_attr)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:206: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::setCellAttr($int_row=0,$int_column=null,$str_column_attr)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:206: Warning: argument 'string' of command @param is not found in the argument list of simbio_table::setCellAttr($int_row=0,$int_column=null,$str_column_attr)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:206: Warning: The following parameters of simbio_table::setCellAttr($int_row=0,$int_column=null,$str_column_attr) are not documented:
+  parameter 'int_row'
+  parameter 'int_column'
+  parameter 'str_column_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:168: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::setColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:168: Warning: argument 'integer' of command @param is not found in the argument list of simbio_table::setColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:168: Warning: argument 'string' of command @param is not found in the argument list of simbio_table::setColumnContent($int_row,$int_column,$str_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:168: Warning: The following parameters of simbio_table::setColumnContent($int_row,$int_column,$str_column_content) are not documented:
+  parameter 'int_row'
+  parameter 'int_column'
+  parameter 'str_column_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:119: Warning: argument 'array' of command @param is not found in the argument list of simbio_table::setHeader($array_column_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:119: Warning: The following parameters of simbio_table::setHeader($array_column_content) are not documented:
+  parameter 'array_column_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:34: Warning: argument 'string' of command @param is not found in the argument list of simbio_table_field::__construct($str_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:34: Warning: The following parameters of simbio_table_field::__construct($str_attr='') are not documented:
+  parameter 'str_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:61: Warning: argument 'string' of command @param is not found in the argument list of simbio_table_row::__construct($array_field_content,$str_attr='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:61: Warning: The following parameters of simbio_table_row::__construct($array_field_content,$str_attr='') are not documented:
+  parameter 'array_field_content'
+  parameter 'str_attr'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:73: Warning: argument 'array' of command @param is not found in the argument list of simbio_table_row::addFields($array_field_content)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/table/simbio_table.inc.php:73: Warning: The following parameters of simbio_table_row::addFields($array_field_content) are not documented:
+  parameter 'array_field_content'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:35: Warning: argument 'string' of command @param is not found in the argument list of simbio_template_parser::__construct($tpl_file_path)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:35: Warning: The following parameters of simbio_template_parser::__construct($tpl_file_path) are not documented:
+  parameter 'tpl_file_path'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:64: Warning: argument 'string' of command @param is not found in the argument list of simbio_template_parser::assign($str_maker,$str_replacement,$bool_show_error=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:64: Warning: argument 'string' of command @param is not found in the argument list of simbio_template_parser::assign($str_maker,$str_replacement,$bool_show_error=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:64: Warning: argument 'boolean' of command @param is not found in the argument list of simbio_template_parser::assign($str_maker,$str_replacement,$bool_show_error=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_GUI/template_parser/simbio_template_parser.inc.php:64: Warning: The following parameters of simbio_template_parser::assign($str_maker,$str_replacement,$bool_show_error=false) are not documented:
+  parameter 'str_maker'
+  parameter 'str_replacement'
+  parameter 'bool_show_error'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:33: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:36: Warning: argument 'mixed' of command @param is not found in the argument list of StreamReader::read($bytes)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:36: Warning: The following parameters of StreamReader::read($bytes) are not documented:
+  parameter 'bytes'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:47: Warning: argument 'mixed' of command @param is not found in the argument list of StreamReader::seekto($position)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:47: Warning: The following parameters of StreamReader::seekto($position) are not documented:
+  parameter 'position'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:83: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:100: Warning: argument 'mixed' of command @param is not found in the argument list of StringReader::read($bytes)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:100: Warning: The following parameters of StringReader::read($bytes) are not documented:
+  parameter 'bytes'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:115: Warning: argument 'mixed' of command @param is not found in the argument list of StringReader::seekto($pos)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:115: Warning: The following parameters of StringReader::seekto($pos) are not documented:
+  parameter 'pos'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:89: Warning: argument 'string' of command @param is not found in the argument list of StringReader::StringReader($str='')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:89: Warning: The following parameters of StringReader::StringReader($str='') are not documented:
+  parameter 'str'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'object' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'string' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'string' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'string' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'string' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: argument 'array' of command @param is not found in the argument list of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:128: Warning: The following parameters of utility::getID($obj_db,$str_table_name,$str_id_field,$str_value_field,$str_value,&$arr_cache=false) are not documented:
+  parameter 'obj_db'
+  parameter 'str_table_name'
+  parameter 'str_id_field'
+  parameter 'str_value_field'
+  parameter 'str_value'
+  parameter 'arr_cache'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:76: Warning: argument 'string' of command @param is not found in the argument list of utility::havePrivilege($str_module_name,$str_privilege_type='r')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:76: Warning: argument 'string' of command @param is not found in the argument list of utility::havePrivilege($str_module_name,$str_privilege_type='r')
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:76: Warning: The following parameters of utility::havePrivilege($str_module_name,$str_privilege_type='r') are not documented:
+  parameter 'str_module_name'
+  parameter 'str_privilege_type'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:31: Warning: argument 'string' of command @param is not found in the argument list of utility::jsAlert($str_message)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:31: Warning: The following parameters of utility::jsAlert($str_message) are not documented:
+  parameter 'str_message'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:51: Warning: argument 'object' of command @param is not found in the argument list of utility::loadSettings($obj_db)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:51: Warning: The following parameters of utility::loadSettings($obj_db) are not documented:
+  parameter 'obj_db'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: argument 'object' of command @param is not found in the argument list of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: argument 'string' of command @param is not found in the argument list of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: argument 'string' of command @param is not found in the argument list of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: argument 'string' of command @param is not found in the argument list of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: argument 'string' of command @param is not found in the argument list of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg)
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:100: Warning: The following parameters of utility::writeLogs($obj_db,$str_log_type,$str_value_id,$str_location,$str_log_msg) are not documented:
+  parameter 'obj_db'
+  parameter 'str_log_type'
+  parameter 'str_value_id'
+  parameter 'str_location'
+  parameter 'str_log_msg'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:268: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/lang/php-gettext/streams.php:277: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:27: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:36: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:45: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:54: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:65: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:78: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/lib/utility.inc.php:87: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:27: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:36: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:47: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:56: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:67: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:76: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:85: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:94: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:103: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:112: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:121: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:130: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:139: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:148: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:157: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:166: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:175: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:184: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:194: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:203: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:212: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:221: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:230: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:239: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:248: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:257: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:266: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:275: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:284: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:293: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:302: Warning: Found unknown command `\access'
+C:/ProgrammePortable/_Server/UniformServer/www/_test/senayan3/simbio2/simbio_UTILS/simbio_tokenizecql.inc.php:311: Warning: Found unknown command `\access'

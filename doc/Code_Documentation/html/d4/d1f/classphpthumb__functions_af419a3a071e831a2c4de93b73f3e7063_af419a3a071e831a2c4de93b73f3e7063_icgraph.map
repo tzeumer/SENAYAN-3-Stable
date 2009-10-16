@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_a5f3d1f38c5a6c3a5b83a8f96042ffef5.html#a5f3d1f38c5a6c3a5b83a8f96042ffef5" title="GrayscalePixel" alt="" coords="172,284,281,311"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a825ce270b0defc94f2ccb5baa07e7303.html#a825ce270b0defc94f2ccb5baa07e7303" title="phpthumb_filters::WhiteBalance" alt="" coords="647,385,857,412"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a1d26d503a63b41fe2f6d6c6c22c2f977.html#a1d26d503a63b41fe2f6d6c6c22c2f977" title="phpthumb_filters::ApplyMask" alt="" coords="355,81,547,108"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a0fd131013d15acb0563517913421f06e.html#a0fd131013d15acb0563517913421f06e" title="phpthumb_filters::Colorize" alt="" coords="363,208,539,235"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_ada0752b5c2e587088c61e8c18ba21514.html#ada0752b5c2e587088c61e8c18ba21514" title="phpthumb_filters::HistogramAnalysis" alt="" coords="332,259,569,285"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_aebd2067d17409638a17de18089628f6d.html#aebd2067d17409638a17de18089628f6d" title="phpthumb_filters::Sepia" alt="" coords="369,309,532,336"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_ae3154ed46062f29561e7be86f2559b1c.html#ae3154ed46062f29561e7be86f2559b1c" title="phpthumb_filters::Threshold" alt="" coords="357,360,544,387"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_abd40d19047d10673ea2670ce5ae69f6c.html#abd40d19047d10673ea2670ce5ae69f6c" title="phpthumb_filters::Elipse" alt="" coords="671,5,833,32"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a8425970ef696ae1c8e420cc7718e7c9f.html#a8425970ef696ae1c8e420cc7718e7c9f" title="phpthumb_filters::RoundedImageCorners" alt="" coords="619,56,885,83"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_aa7c3c6393587a04c965fca12a81163c6.html#aa7c3c6393587a04c965fca12a81163c6" title="phpthumb_filters::WatermarkText" alt="" coords="643,107,861,133"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_ad3b8f01262de4fbbcfd011e3e5beeb6b.html#ad3b8f01262de4fbbcfd011e3e5beeb6b" title="phpthumb_filters::Desaturate" alt="" coords="656,157,848,184"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_ac964ed4e79cc312837da27572426e6b6.html#ac964ed4e79cc312837da27572426e6b6" title="phpthumb_filters::Grayscale" alt="" coords="659,208,845,235"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a861290ddb5fcd73734a327fbd883fa9d.html#a861290ddb5fcd73734a327fbd883fa9d" title="phpthumb_filters::Saturation" alt="" coords="933,157,1123,184"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a6419068818fbc8d1a371b6c169faa134.html#a6419068818fbc8d1a371b6c169faa134" title="phpthumb_filters::HistogramOverlay" alt="" coords="635,259,869,285"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_ad49d6352f0a22c3c875fd0c59480ce7f.html#ad49d6352f0a22c3c875fd0c59480ce7f" title="phpthumb_filters::HistogramStretch" alt="" coords="636,309,868,336"/>
+</map>

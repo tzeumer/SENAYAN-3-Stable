@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$dc/dd3/classsimbio__table.html" title="{simbio_table\n|+ $cell_attr\l+ $highlight_row\l+ $table_attr\l+ $table_content_attr\l+ $table_header_attr\l+ $table_row\l|+ __construct()\l+ appendTableRow()\l+ getColumnContent()\l+ printTable()\l+ setCellAttr()\l+ setColumnContent()\l+ setHeader()\l}" alt="" coords="15,5,169,261"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a0fd131013d15acb0563517913421f06e.html#a0fd131013d15acb0563517913421f06e" title="Colorize" alt="" coords="137,107,207,133"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a31094adc61bf77474247fff1bd98319a.html#a31094adc61bf77474247fff1bd98319a" title="DebugMessage" alt="" coords="365,5,480,32"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_adfd72c199df2f74f6daeda7c06a18cae.html#adfd72c199df2f74f6daeda7c06a18cae" title="phpthumb_functions::gd_is_bundled" alt="" coords="305,56,540,83"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_af53f41b3482e6bed2082daa0ebfd96c0.html#af53f41b3482e6bed2082daa0ebfd96c0" title="phpthumb_functions::version_compare_replacement" alt="" coords="257,259,588,285"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_ac73caf77553f599f9bdb88c03281b33b.html#ac73caf77553f599f9bdb88c03281b33b" title="phpthumb_functions::GetPixelColor" alt="" coords="307,107,539,133"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_a5f3d1f38c5a6c3a5b83a8f96042ffef5.html#a5f3d1f38c5a6c3a5b83a8f96042ffef5" title="phpthumb_functions::GrayscalePixel" alt="" coords="304,157,541,184"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_aa88047663adfed917d5fb0bece3913b8.html#aa88047663adfed917d5fb0bece3913b8" title="phpthumb_functions::IsHexColor" alt="" coords="315,208,531,235"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_af419a3a071e831a2c4de93b73f3e7063.html#af419a3a071e831a2c4de93b73f3e7063" title="phpthumb_functions::GrayscaleValue" alt="" coords="697,157,940,184"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_a66d2b067747c447ecd3d48dd6830ea78.html#a66d2b067747c447ecd3d48dd6830ea78" title="phpthumb_functions::version_compare_replacement_sub" alt="" coords="639,259,999,285"/>
+</map>

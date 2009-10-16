@@ -1,29 +1,35 @@
 <?php
-/**
- * simbio_mysql class
- * Simbio MySQL connection object class
- * Simbio MySQL try to emulates mysqli object behaviour
- *
- * Copyright (C) 2007,2008  Arie Nugraha (dicarve@yahoo.com)
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
- *
- */
+##
+#  Copyright (C) 2007,2008  Arie Nugraha (dicarve@yahoo.com)
+# 
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+# 
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+# 
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+##
 
 require 'simbio_mysql_result.inc.php';
 
+/**
+ * Simbio MySQL connection object class
+ * 
+ * Simbio MySQL try to emulates mysqli object behaviour
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_mysql extends simbio
 {
     private $db_host = '127.0.0.1';

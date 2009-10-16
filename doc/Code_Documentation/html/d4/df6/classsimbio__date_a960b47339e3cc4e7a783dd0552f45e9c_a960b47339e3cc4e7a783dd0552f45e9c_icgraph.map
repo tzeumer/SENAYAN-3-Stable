@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$d8/d35/classmember_aad46e0afa4f4b7ab6fdbd0ee5e9becda.html#aad46e0afa4f4b7ab6fdbd0ee5e9becda" title="member::__construct" alt="" coords="193,5,340,32"/>
+<area shape="rect" href="$d9/d05/classcirculation_a44025a8e39068c5818c3a7d79ef27aa4.html#a44025a8e39068c5818c3a7d79ef27aa4" title="circulation::addLoanSession" alt="" coords="173,56,360,83"/>
+<area shape="rect" href="$d9/d05/classcirculation_a0fe172adaa773846b0656de103bf572c.html#a0fe172adaa773846b0656de103bf572c" title="circulation::countOverdueValue" alt="" coords="163,107,371,133"/>
+<area shape="rect" href="$dc/d01/classmember__logon_a1dea39de457e39ff4213db601175e619.html#a1dea39de457e39ff4213db601175e619" title="member_logon::valid" alt="" coords="195,157,339,184"/>
+<area shape="rect" href="$d9/d05/classcirculation_ac801799df24d75f6df63feca1c9e1daf.html#ac801799df24d75f6df63feca1c9e1daf" title="circulation::returnItem" alt="" coords="420,107,569,133"/>
+<area shape="rect" href="$d9/d05/classcirculation_a0a3cb2e2a1bc4c4e1900164d38a4e8fc.html#a0a3cb2e2a1bc4c4e1900164d38a4e8fc" title="circulation::extendItemLoan" alt="" coords="620,107,804,133"/>
+</map>

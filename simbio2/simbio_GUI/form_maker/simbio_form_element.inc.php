@@ -1,27 +1,33 @@
 <?php
-/**
- * simbio_form_element
- * Collection of Form Element Class
- *
- * Copyright (C) 2007,2008  Arie Nugraha (dicarve@yahoo.com)
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
- *
- */
+##
+#  Copyright (C) 2007,2008  Arie Nugraha (dicarve@yahoo.com)
+# 
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+# 
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+# 
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+##
 
-/* abstract form element class to be inherited by form element classes */
+/* Collection of Form Element Class */
+
+/**
+ * Abstract form element class to be inherited by form element classes
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 abstract class abs_simbio_form_element
 {
     public $element_type = 'text';
@@ -40,7 +46,15 @@ abstract class abs_simbio_form_element
     abstract protected function out();
 }
 
-/* Text field object */
+/**
+ * Text field object
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_fe_text extends abs_simbio_form_element
 {
     public function out()
@@ -79,7 +93,15 @@ class simbio_fe_text extends abs_simbio_form_element
     }
 }
 
-/* Drop Down Select List object */
+/**
+ * Drop Down Select List object
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_fe_select extends abs_simbio_form_element
 {
     public function out()
@@ -120,7 +142,15 @@ class simbio_fe_select extends abs_simbio_form_element
     }
 }
 
-/* AJAX drop down select list object */
+/**
+ * AJAX drop down select list object
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_fe_AJAX_select extends abs_simbio_form_element
 {
     /**
@@ -140,7 +170,15 @@ class simbio_fe_AJAX_select extends abs_simbio_form_element
     }
 }
 
-/* Checkbox button groups object */
+/**
+ * Checkbox button groups object
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_fe_checkbox extends abs_simbio_form_element
 {
     public function out()
@@ -205,8 +243,15 @@ class simbio_fe_checkbox extends abs_simbio_form_element
     }
 }
 
-
-/* Radio button groups object */
+/**
+ * Radio button groups object
+ * 
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_fe_radio extends abs_simbio_form_element
 {
     public function out()
@@ -262,7 +307,16 @@ $simbio_fe_date_month_array = array( array('01', strtoupper(__('Month')), array(
     array('07', 'July'), array('08', 'August'), array('09', 'September'),
     array('10', 'October'), array('11', 'November'), array('12', 'December')));
 
-/* Depecrated class for compability with older code */
+/**
+ * Depecrated class for compability with older code
+ * 
+ * @deprecated Depecrated class for compability with older code
+ * @package Simbio
+ * @author Arie Nugraha (dicarve@yahoo.com)
+ * @copyright 2007,2008
+ * @version $Id$
+ * @access public
+ */
 class simbio_form_element
 {
     /**

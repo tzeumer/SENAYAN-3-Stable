@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$d9/d05/classcirculation_a0fe172adaa773846b0656de103bf572c.html#a0fe172adaa773846b0656de103bf572c" title="circulation::countOverdueValue" alt="" coords="123,5,331,32"/>
+<area shape="rect" href="$d9/d05/classcirculation_ac801799df24d75f6df63feca1c9e1daf.html#ac801799df24d75f6df63feca1c9e1daf" title="circulation::returnItem" alt="" coords="380,5,529,32"/>
+<area shape="rect" href="$d9/d05/classcirculation_a0a3cb2e2a1bc4c4e1900164d38a4e8fc.html#a0a3cb2e2a1bc4c4e1900164d38a4e8fc" title="circulation::extendItemLoan" alt="" coords="580,5,764,32"/>
+</map>

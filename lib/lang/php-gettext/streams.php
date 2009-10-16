@@ -17,43 +17,92 @@
    You should have received a copy of the GNU General Public License
    along with PHP-gettext; if not, write to the Free Software
    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-
 */
 
+/**
+ * @package PHPgettext
+ */
 
-// Simple class to wrap file streams, string streams, etc.
-// seek is essential, and it should be byte stream
+/**
+ * Simple class to wrap file streams, string streams, etc.
+ * seek is essential, and it should be byte stream
+ * 
+ * @author Danilo Segan <danilo@kvota.net>
+ * @copyright 2003, 2005
+ * @version $Id$
+ * @access public
+ */
 class StreamReader {
-  // should return a string [FIXME: perhaps return array of bytes?]
+  /**
+   * Should return a string
+   * 
+   * @todo [FIXME: perhaps return array of bytes?]
+   * @param mixed $bytes
+   * @return
+   */
   function read($bytes) {
     return false;
   }
 
-  // should return new position
+  /**
+   * Should return new position
+   * 
+   * @param mixed $position
+   * @return
+   */
   function seekto($position) {
     return false;
   }
 
-  // returns current position
+  /**
+   * Returns current position
+   * 
+   * @return
+   */
   function currentpos() {
     return false;
   }
 
-  // returns length of entire stream (limit for seekto()s)
+  /**
+   * Returns length of entire stream (limit for seekto()s)
+   * 
+   * @return
+   */
   function length() {
     return false;
   }
 }
 
+
+/**
+ * StringReader
+ * 
+ * @author Danilo Segan <danilo@kvota.net>
+ * @copyright 2003, 2005
+ * @version $Id$
+ * @access public
+ */
 class StringReader {
   var $_pos;
   var $_str;
 
+  /**
+   * StringReader::StringReader()
+   * 
+   * @param string $str
+   * @return
+   */
   function StringReader($str='') {
     $this->_str = $str;
     $this->_pos = 0;
   }
 
+  /**
+   * StringReader::read()
+   * 
+   * @param mixed $bytes
+   * @return
+   */
   function read($bytes) {
     $data = substr($this->_str, $this->_pos, $bytes);
     $this->_pos += $bytes;
@@ -63,6 +112,12 @@ class StringReader {
     return $data;
   }
 
+  /**
+   * StringReader::seekto()
+   * 
+   * @param mixed $pos
+   * @return
+   */
   function seekto($pos) {
     $this->_pos = $pos;
     if (strlen($this->_str)<$this->_pos)
@@ -70,10 +125,20 @@ class StringReader {
     return $this->_pos;
   }
 
+  /**
+   * StringReader::currentpos()
+   * 
+   * @return
+   */
   function currentpos() {
     return $this->_pos;
   }
 
+  /**
+   * StringReader::length()
+   * 
+   * @return
+   */
   function length() {
     return strlen($this->_str);
   }
@@ -81,11 +146,25 @@ class StringReader {
 }
 
 
+/**
+ * FileReader
+ * 
+ * @author Danilo Segan <danilo@kvota.net>
+ * @copyright 2003, 2005
+ * @version $Id$
+ * @access public
+ */
 class FileReader {
   var $_pos;
   var $_fd;
   var $_length;
 
+  /**
+   * FileReader::FileReader()
+   * 
+   * @param mixed $filename
+   * @return
+   */
   function FileReader($filename) {
     if (file_exists($filename)) {
 
@@ -102,6 +181,12 @@ class FileReader {
     }
   }
 
+  /**
+   * FileReader::read()
+   * 
+   * @param mixed $bytes
+   * @return
+   */
   function read($bytes) {
     if ($bytes) {
       fseek($this->_fd, $this->_pos);
@@ -119,29 +204,64 @@ class FileReader {
     } else return '';
   }
 
+  /**
+   * FileReader::seekto()
+   * 
+   * @param mixed $pos
+   * @return
+   */
   function seekto($pos) {
     fseek($this->_fd, $pos);
     $this->_pos = ftell($this->_fd);
     return $this->_pos;
   }
 
+  /**
+   * FileReader::currentpos()
+   * 
+   * @return
+   */
   function currentpos() {
     return $this->_pos;
   }
 
+  /**
+   * FileReader::length()
+   * 
+   * @return
+   */
   function length() {
     return $this->_length;
   }
 
+  /**
+   * FileReader::close()
+   * 
+   * @return
+   */
   function close() {
     fclose($this->_fd);
   }
 
 }
 
-// Preloads entire file in memory first, then creates a StringReader
-// over it (it assumes knowledge of StringReader internals)
+
+/**
+ * Preloads entire file in memory first, then creates a StringReader over it (it assumes knowledge of StringReader internals)
+ * 
+ * @namespace PHPgettext
+ * @author Danilo Segan <danilo@kvota.net>
+ * @copyright 2003, 2005
+ * @version $Id$
+ * @access public
+ */
 class CachedFileReader extends StringReader {
+  /**
+   * CachedFileReader::CachedFileReader()
+   * 
+   * @param mixed $filename
+   * @return
+   */
   function CachedFileReader($filename) {
     if (file_exists($filename)) {
 

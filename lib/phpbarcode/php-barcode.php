@@ -1,7 +1,27 @@
 <?php
-/*
- * PHP-Barcode 0.3pl1
-
+##
+#  (C) 2001,2002,2003,2004 by Folke Ashberg <folke@ashberg.de>
+#
+#  The newest version can be found at http://www.ashberg.de/bar
+#
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+##
+ 
+/**
+ * File: lib/phpbarcode/php-barcode.php - Showing list of catalogues and also for search handling
+ *
  * PHP-Barcode generates
  *   - Barcode-Images using libgd2 (png, jpg, gif)
  *   - HTML-Images (using 1x1 pixel and html-table)
@@ -13,27 +33,11 @@
  *     barcode-encoder which uses GNU-Barcode
  *     genbarcode can encode EAN-13, EAN-8, UPC, ISBN, 39, 128(a,b,c),
  *     I25, 128RAW, CBR, MSI, PLS
- *     genbarcode is available at www.ashberg.de/bar
-
- * (C) 2001,2002,2003,2004 by Folke Ashberg <folke@ashberg.de>
-
- * The newest version can be found at http://www.ashberg.de/bar
-
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
-
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
-
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
-
- */
+ *     genbarcode is available at www.ashberg.de/bar 
+ * 
+ * @package PHPbarcode
+ * @version 0.3pl1
+ */ 
 
 /* MODIFIED BY : Arie Nugraha */
 define('GD_NOT_LOADED', 1);
@@ -62,26 +66,18 @@ $barcode_text = 'barcode';
 
 require "encode_bars.php"; /* build-in encoders */
 
-/*
- * barcode_outimage(text, bars [, scale [, mode [, total_y [, space ]]]] )
- *
- *  Outputs an image using libgd
- *
- *    text   : the text-line (<position>:<font-size>:<character> ...)
- *    bars   : where to place the bars  (<space-width><bar-width><space-width><bar-width>...)
- *    scale  : scale factor ( 1 < scale < unlimited (scale 50 will produce
- *                                                   5400x300 pixels when
- *                                                   using EAN-13!!!))
- *    mode   : png,gif,jpg, depending on libgd ! (default = 'png')
- *    total_y: the total height of the image ( default: scale * 60 )
- *    space  : space
- *             default:
- *      $space[top]   = 2 * $scale;
- *      $space[bottom] =  2 * $scale;
- *      $space[left]  = 2 * $scale;
- *      $space[right] = 2 * $scale;
- */
 
+/**
+ * Outputs an image using libgd
+ * 
+ * @param mixed $text			the text-line (<position>:<font-size>:<character> ...)
+ * @param mixed $bars			where to place the bars  (<space-width><bar-width><space-width><bar-width>...)
+ * @param integer $scale		scale factor ( 1 < scale < unlimited (scale 50 will produce 5400x300 pixels when using EAN-13!!!))
+ * @param string $mode			png,gif,jpg, depending on libgd ! (default = 'png')
+ * @param integer $total_y		the total height of the image ( default: scale * 60 )
+ * @param string $space			space default: $space[top]   = 2 * $scale; $space[bottom] =  2 * $scale; $space[left]  = 2 * $scale; $space[right] = 2 * $scale;
+ * @return
+ */
 function barcode_outimage($text, $bars, $scale = 1, $mode = "png", $total_y = 0, $space = '')
 {
     global $bar_color, $bg_color, $text_color;
@@ -183,14 +179,14 @@ function barcode_outimage($text, $bars, $scale = 1, $mode = "png", $total_y = 0,
     }
 }
 
-
-/* barcode_encode_genbarcode(code, encoding)
- *   encodes $code with $encoding using genbarcode
- *
- *   return:
- *    array[encoding] : the encoding which has been used
- *    array[bars]     : the bars
- *    array[text]     : text-positioning info
+/**
+ * Encodes $code with $encoding using genbarcode
+ * 
+ * @param mixed $code
+ * @param mixed $encoding
+ * @return	array[encoding] : the encoding which has been used
+ * @return	array[bars]     : the bars
+ * @return	array[text]     : text-positioning info
  */
 function barcode_encode_genbarcode($code, $encoding){
     global $genbarcode_loc;
@@ -222,10 +218,8 @@ function barcode_encode_genbarcode($code, $encoding){
     return $ret;
 }
 
-
-/* barcode_encode(code, encoding)
- *   encodes $code with $encoding using genbarcode OR built-in encoder
- *   if you don't have genbarcode only EAN-13/ISBN is possible
+/**
+ * Encodes $code with $encoding using genbarcode OR built-in encoder if you don't have genbarcode only EAN-13/ISBN is possible
  *
  * You can use the following encodings (when you have genbarcode):
  *   ANY    choose best-fit (default)
@@ -241,11 +235,12 @@ function barcode_encode_genbarcode($code, $encoding){
  *   CBR    Codabar (by Leonid A. Broukhis)
  *   MSI    MSI (by Leonid A. Broukhis)
  *   PLS    Plessey (by Leonid A. Broukhis)
- *
- *   return:
- *    array[encoding] : the encoding which has been used
- *    array[bars]     : the bars
- *    array[text]     : text-positioning info
+ *  
+ * @param mixed $code
+ * @param mixed $encoding
+ * @return array[encoding] : the encoding which has been used
+ * @return array[bars]     : the bars
+ * @return array[text]     : text-positioning info 
  */
 function barcode_encode($code, $encoding){
     global $genbarcode_loc;
@@ -273,15 +268,16 @@ function barcode_encode($code, $encoding){
     return $bars;
 }
 
-
-/* barcode_print(code [, encoding [, scale [, mode ]]] );
- *
- *  encodes and prints a barcode
- *
- *   return:
- *    array[encoding] : the encoding which has been used
- *    array[bars]     : the bars
- *    array[text]     : text-positioning info
+/**
+ * Encodes and prints a barcode
+ * 
+ * @param mixed $code
+ * @param string $encoding
+ * @param integer $scale
+ * @param string $mode
+ * @return array[encoding] : the encoding which has been used
+ * @return array[bars]     : the bars
+ * @return array[text]     : text-positioning info 
  */
 function barcode_print($code, $encoding = '128B', $scale = 2 ,$mode = 'png' )
 {

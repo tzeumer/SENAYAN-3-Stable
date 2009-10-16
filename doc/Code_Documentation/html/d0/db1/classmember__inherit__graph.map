@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$d9/d05/classcirculation.html" title="{circulation\n|+ $holiday_date\l+ $holiday_dayname\l+ $loan_have_overdue\l# $fine_each_day\l# $grace_periode\l# $item_loan_rules\l# $loan_limit\l# $loan_periode\l# $overdue_days\l# $reborrow_limit\l|+ __construct()\l+ addLoanSession()\l+ countOverdueValue()\l+ extendItemLoan()\l+ finishLoanSession()\l+ getOverdueDays()\l+ removeLoanSession()\l+ returnItem()\l+ setLoanRules()\l}" alt="" coords="8,437,171,789"/>
+</map>

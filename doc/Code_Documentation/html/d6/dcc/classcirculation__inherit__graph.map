@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$d8/d35/classmember.html" title="{member\n|+ $expire_date\l+ $inst_name\l+ $is_member\l+ $member_email\l+ $member_id\l+ $member_image\l+ $member_name\l+ $member_notes\l+ $member_type_id\l+ $member_type_name\l+ $register_date\l# $is_expire\l# $is_pending\l# $member_type_prop\l# $obj_db\l|+ __construct()\l+ getMemberTypeProp()\l+ isExpired()\l+ isPending()\l+ valid()\l# getItemLoan()\l}" alt="" coords="5,5,173,389"/>
+</map>

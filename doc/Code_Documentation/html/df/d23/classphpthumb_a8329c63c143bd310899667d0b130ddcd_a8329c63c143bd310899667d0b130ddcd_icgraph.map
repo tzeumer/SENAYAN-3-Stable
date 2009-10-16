@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" href="$df/d23/classphpthumb_a6ff71b425894fd846790cedf9f9cc97d.html#a6ff71b425894fd846790cedf9f9cc97d" title="ErrorImage" alt="" coords="180,596,268,623"/>
+<area shape="rect" href="$df/d23/classphpthumb_a7932c8fc95aea6838b2f232c8d764cc9.html#a7932c8fc95aea6838b2f232c8d764cc9" title="GenerateThumbnail" alt="" coords="1271,444,1409,471"/>
+<area shape="rect" href="$df/d23/classphpthumb_a7a2d5f7e31c08dd71b834391cb7b1520.html#a7a2d5f7e31c08dd71b834391cb7b1520" title="ImageCreateFromStringReplacement" alt="" coords="336,267,579,293"/>
+<area shape="rect" href="$df/d23/classphpthumb_a41c532c5ca4af0f701a0051ff5391cd0.html#a41c532c5ca4af0f701a0051ff5391cd0" title="setSourceData" alt="" coords="403,976,512,1003"/>
+<area shape="rect" href="$df/d23/classphpthumb_affcf07b54508c9914d0eb280b7ae91c0.html#affcf07b54508c9914d0eb280b7ae91c0" title="AlphaChannelFlatten" alt="" coords="703,672,849,699"/>
+<area shape="rect" href="$df/d23/classphpthumb_a1ffe44d7b342017608ce694cb875cbf4.html#a1ffe44d7b342017608ce694cb875cbf4" title="AntiOffsiteLinking" alt="" coords="712,317,840,344"/>
+<area shape="rect" href="$df/d23/classphpthumb_a83149fb942a8f8508f342f422f115947.html#a83149fb942a8f8508f342f422f115947" title="CreateGDoutput" alt="" coords="716,723,836,749"/>
+<area shape="rect" href="$df/d23/classphpthumb_a49a5e90738a76b0ff5a4d2a5fc61339a.html#a49a5e90738a76b0ff5a4d2a5fc61339a" title="ExtractEXIFgetImageSize" alt="" coords="688,216,864,243"/>
+<area shape="rect" href="$df/d23/classphpthumb_a92f78bcb7f3b0018668b51be60821f9c.html#a92f78bcb7f3b0018668b51be60821f9c" title="SourceImageToGD" alt="" coords="1020,153,1156,180"/>
+<area shape="rect" href="$d4/d1f/classphpthumb__functions_a02caac9e703a9c106e3fea3a6215130d.html#a02caac9e703a9c106e3fea3a6215130d" title="phpthumb_functions::ImageCreateFunction" alt="" coords="319,925,596,952"/>
+<area shape="rect" href="$df/d23/classphpthumb_ad799f5f4019f5ca9f5eb3a0f8da091f0.html#ad799f5f4019f5ca9f5eb3a0f8da091f0" title="Rotate" alt="" coords="1057,824,1119,851"/>
+<area shape="rect" href="$df/d23/classphpthumb_a8c6d14a9a5b8f6be2255cc0ac6b91373.html#a8c6d14a9a5b8f6be2255cc0ac6b91373" title="OutputThumbnail" alt="" coords="396,875,519,901"/>
+<area shape="rect" href="$df/d23/classphpthumb_a49cc25fd831b2990b8f5743e8d6abe30.html#a49cc25fd831b2990b8f5743e8d6abe30" title="ResolveFilenameToAbsolute" alt="" coords="361,495,553,521"/>
+<area shape="rect" href="$df/d23/classphpthumb_a55b58f691d10245443a42b72c782c700.html#a55b58f691d10245443a42b72c782c700" title="ResolveSource" alt="" coords="720,621,832,648"/>
+<area shape="rect" href="$df/d23/classphpthumb_aabeb053ae1be8517687e11f68955affd.html#aabeb053ae1be8517687e11f68955affd" title="setCacheDirectory" alt="" coords="711,571,841,597"/>
+<area shape="rect" href="$df/d23/classphpthumb_ae5888b30377b0c4cedc8953ea9958a87.html#ae5888b30377b0c4cedc8953ea9958a87" title="ApplyFilters" alt="" coords="1041,368,1135,395"/>
+<area shape="rect" href="$df/d23/classphpthumb_ab25e890433143e4ebacf894a3dc00243.html#ab25e890433143e4ebacf894a3dc00243" title="ImageCreateFromFilename" alt="" coords="684,165,868,192"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a1d26d503a63b41fe2f6d6c6c22c2f977.html#a1d26d503a63b41fe2f6d6c6c22c2f977" title="phpthumb_filters::ApplyMask" alt="" coords="680,1027,872,1053"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_abd40d19047d10673ea2670ce5ae69f6c.html#abd40d19047d10673ea2670ce5ae69f6c" title="phpthumb_filters::Elipse" alt="" coords="1007,951,1169,977"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a8425970ef696ae1c8e420cc7718e7c9f.html#a8425970ef696ae1c8e420cc7718e7c9f" title="phpthumb_filters::RoundedImageCorners" alt="" coords="955,1015,1221,1041"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_aa7c3c6393587a04c965fca12a81163c6.html#aa7c3c6393587a04c965fca12a81163c6" title="phpthumb_filters::WatermarkText" alt="" coords="979,1229,1197,1256"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_af3f3dbf7cf23ec5a82650733f7aa1a35.html#af3f3dbf7cf23ec5a82650733f7aa1a35" title="phpthumb_filters::DropShadow" alt="" coords="673,1077,879,1104"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a9361be25a234723bef65039b7d7bb4da.html#a9361be25a234723bef65039b7d7bb4da" title="phpthumb_filters::Flip" alt="" coords="701,1128,851,1155"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_adc2f01e3ad3f01f0204da6f10bad427c.html#adc2f01e3ad3f01f0204da6f10bad427c" title="phpthumb_filters::ImageBorder" alt="" coords="673,1179,879,1205"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_aa3a158b5772eeb4fb28f13973a9e82f5.html#aa3a158b5772eeb4fb28f13973a9e82f5" title="phpthumb_filters::ImprovedImageRotate" alt="" coords="647,875,905,901"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a31079a470f5697b85aad5855f5c614fc.html#a31079a470f5697b85aad5855f5c614fc" title="phpthumb_filters::WatermarkOverlay" alt="" coords="656,1280,896,1307"/>
+<area shape="rect" href="$db/dc8/classphpthumb__filters_a6419068818fbc8d1a371b6c169faa134.html#a6419068818fbc8d1a371b6c169faa134" title="phpthumb_filters::HistogramOverlay" alt="" coords="971,1280,1205,1307"/>
+<area shape="rect" href="$df/d23/classphpthumb_a20510602dc63d77baea988c68365a032.html#a20510602dc63d77baea988c68365a032" title="RenderToFile" alt="" coords="725,469,827,496"/>
+<area shape="rect" href="$df/d23/classphpthumb_a5a0ad9153330752259ca0e350cc4fa44.html#a5a0ad9153330752259ca0e350cc4fa44" title="SetCacheFilename" alt="" coords="1020,520,1156,547"/>
+<area shape="rect" href="$df/d23/classphpthumb_ac80ddbce5c268e2e3cef41e39f41c9f9.html#ac80ddbce5c268e2e3cef41e39f41c9f9" title="setParameter" alt="" coords="725,419,827,445"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$df/dcb/classsimbio__fe___a_j_a_x__select.html" title="{simbio_fe_AJAX_select\n|+ $additional_params\l+ $element_dd_list_class\l+ $element_dd_list_default_text\l+ $handler_URL\l|+ out()\l}" alt="" coords="5,229,216,357"/>
+<area shape="rect" href="$dc/de8/classsimbio__fe__checkbox.html" title="{simbio_fe_checkbox\n||+ out()\l}" alt="" coords="240,253,381,333"/>
+<area shape="rect" href="$dc/dde/classsimbio__fe__radio.html" title="{simbio_fe_radio\n||+ out()\l}" alt="" coords="405,253,520,333"/>
+<area shape="rect" href="$d8/d26/classsimbio__fe__select.html" title="{simbio_fe_select\n||+ out()\l}" alt="" coords="544,253,664,333"/>
+<area shape="rect" href="$dd/d57/classsimbio__fe__text.html" title="{simbio_fe_text\n||+ out()\l}" alt="" coords="688,253,795,333"/>
+<area shape="rect" href="$d2/d5f/classsimbio__form__maker__anything.html" title="{simbio_form_maker_anything\n|+ $content\l|+ out()\l}" alt="" coords="819,253,1016,333"/>
+</map>

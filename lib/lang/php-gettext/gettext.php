@@ -20,6 +20,10 @@
    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 */
+
+/**
+ * @package PHPgettext
+ */
  
 /**
  * Provides a simple gettext replacement that works independently from
@@ -32,6 +36,13 @@
  * While the cache is enabled by default, it can be switched off with the
  * second parameter in the constructor (e.g. whenusing very large MO files
  * that you don't want to keep in memory)
+ * 
+ * @package PHPgettext
+ * @author Copyright (c) 2003 Danilo Segan <danilo@kvota.net>.
+ * @author Copyright (c) 2005 Nico Kaiser <nico@siriux.net>
+ * @copyright 2003,2005
+ * @version $Id$
+ * @access public
  */
 class gettext_reader {
   //public:

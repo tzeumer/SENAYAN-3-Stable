@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$d5/da4/classdetail.html" title="{detail\n|+ $metadata\l+ $record_title\l# $detail_prefix\l# $detail_suffix\l&#45; $detail_id\l&#45; $error\l&#45; $obj_db\l&#45; $output_format\l&#45; $record_detail\l|+ __construct()\l+ getPrefix()\l+ getSuffix()\l+ showDetail()\l# htmlOutput()\l# MODSoutput()\l}" alt="" coords="21,261,141,549"/>
+</map>

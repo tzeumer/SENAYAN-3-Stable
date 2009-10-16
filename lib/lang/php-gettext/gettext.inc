@@ -19,8 +19,13 @@
    You should have received a copy of the GNU General Public License
    along with PHP-gettext; if not, write to the Free Software
    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-
 */
+
+/**
+ * File: lib/lang/php-gettext/gettext.inc - Drop in replacement for native gettext.
+ * @package PHPgettext
+ */
+
 /*
 LC_CTYPE        0
 LC_NUMERIC  1
