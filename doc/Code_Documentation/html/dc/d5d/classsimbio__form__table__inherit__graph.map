@@ -1,3 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$de/dfd/classsimbio__form__maker.html" title="{simbio_form_maker\n|+ $submit_target\l# $disable\l# $elements\l# $enable_upload\l# $form_action\l# $form_method\l# $form_name\l# $hidden_elements\l|+ __construct()\l+ addAnything()\l+ addCheckBox()\l+ addDateField()\l+ addFormObject()\l+ addHidden()\l+ addRadio()\l+ addSelectList()\l+ addTextField()\l+ endForm()\l+ startForm()\l# printOut()\l}" alt="" coords="11,5,152,373"/>
-</map>

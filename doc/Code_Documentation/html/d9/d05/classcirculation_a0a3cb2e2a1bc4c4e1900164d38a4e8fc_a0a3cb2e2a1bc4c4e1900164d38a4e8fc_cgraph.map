@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$d4/df6/classsimbio__date_af5c7f297c56d734f6e5863b5538fe10d.html#af5c7f297c56d734f6e5863b5538fe10d" title="simbio_date::getNextDate" alt="" coords="620,5,796,32"/>
-<area shape="rect" href="$d4/df6/classsimbio__date_aee0ff7fd9442350d240e053001eb42e0.html#aee0ff7fd9442350d240e053001eb42e0" title="simbio_date::getNextDateNotHoliday" alt="" coords="303,31,543,57"/>
-<area shape="rect" href="$d9/d05/classcirculation_ac801799df24d75f6df63feca1c9e1daf.html#ac801799df24d75f6df63feca1c9e1daf" title="returnItem" alt="" coords="171,81,253,108"/>
-<area shape="rect" href="$d9/d05/classcirculation_a0fe172adaa773846b0656de103bf572c.html#a0fe172adaa773846b0656de103bf572c" title="countOverdueValue" alt="" coords="353,81,492,108"/>
-<area shape="rect" href="$d4/df6/classsimbio__date_aa9acc84e432e024ff3b157e58eafce8e.html#aa9acc84e432e024ff3b157e58eafce8e" title="simbio_date::calcDay" alt="" coords="633,56,783,83"/>
-<area shape="rect" href="$d4/df6/classsimbio__date_a960b47339e3cc4e7a783dd0552f45e9c.html#a960b47339e3cc4e7a783dd0552f45e9c" title="simbio_date::compareDates" alt="" coords="615,107,801,133"/>
-<area shape="rect" href="$d4/df6/classsimbio__date_a8b263455aeade8d396acce6a24846d96.html#a8b263455aeade8d396acce6a24846d96" title="simbio_date::countHolidayBetween" alt="" coords="593,157,823,184"/>
-</map>

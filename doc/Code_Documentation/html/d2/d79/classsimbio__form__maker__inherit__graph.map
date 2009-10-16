@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$df/d98/classsimbio__form__table.html" title="{simbio_form_table\n|+ $back_button\l+ $delete_button\l+ $edit_mode\l+ $record_id\l+ $record_title\l+ $submit_button_attr\l+ $table_attr\l+ $table_content_attr\l+ $table_header_attr\l+ $with_form_tag\l|+ __construct()\l+ printOut()\l}" alt="" coords="5,421,157,661"/>
-<area shape="rect" href="$da/d5c/classsimbio__form__table___a_j_a_x.html" title="{simbio_form_table_AJAX\n|+ $back_button\l+ $delete_button\l+ $edit_mode\l+ $record_id\l+ $record_title\l+ $submit_button_attr\l+ $table_attr\l+ $table_content_attr\l+ $table_header_attr\l+ $with_form_tag\l|+ __construct()\l+ printOut()\l}" alt="" coords="181,421,352,661"/>
-</map>

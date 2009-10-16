@@ -1,3 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$df/d23/classcontent__list.html" title="{content_list\n|+ $num_rows\l# $criteria\l# $list_template\l# $order\l# $paging_enable\l|+ pagingEnable()\l+ setListTemplate()\l+ setSQLcriteria()\l+ setSQLorder()\l# parseListTemplate()\l}" alt="" coords="5,5,157,213"/>
-</map>
