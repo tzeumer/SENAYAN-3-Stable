@@ -45,14 +45,14 @@ if (get_magic_quotes_gpc()) {
     $_REQUEST = array_map('stripslashes_deep', $_REQUEST);
 }
 // turn off all error messages for security reason
-@ini_set('display_errors', true);
+@ini_set('display_errors', false);
 // check if safe mode is on
 if ((bool) ini_get('safe_mode')) {
     define('SENAYAN_IN_SAFE_MODE', 1);
 }
 
 // senayan version
-define('SENAYAN_VERSION', 'Senayan3-stable11');
+define('SENAYAN_VERSION', 'senayan3-stable12');
 
 // senayan session cookies name
 define('SENAYAN_SESSION_COOKIES_NAME', 'SenayanAdmin');
@@ -196,7 +196,7 @@ $sysconf['enable_xml_result'] = true;
 
 /* DATABASE BACKUP config */
 // specify the full path of mysqldump binary
-$sysconf['mysqldump'] = '/usr/bin/mysqldump';
+$sysconf['mysqldump'] = '/usr/local/server/bin/mysqldump';
 // backup location (make sure it is accessible and rewritable to webserver!)
 $sysconf['temp_dir'] = '/tmp';
 $sysconf['backup_dir'] = FILES_UPLOAD_DIR.'backup'.DIRECTORY_SEPARATOR;
@@ -287,7 +287,7 @@ $sysconf['reserve_expire_periode'] = 7;
 
 /* CONTENT */
 $sysconf['library_name'] = 'Senayan';
-$sysconf['library_subname'] = 'Open Source Library Automation';
+$sysconf['library_subname'] = 'Open Source Library Management System';
 $sysconf['page_footer'] = ' <strong>SENAYAN Library Automation</strong> - Pusat Informasi dan Humas Depdiknas RI - Released Under GNU GPL License';
 
 /* HTTPS Setting */
